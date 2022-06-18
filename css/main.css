@@ -339,7 +339,7 @@ main {
   z-index: 5;
   border-radius: 10px;
   /*background: rgba(105, 105, 105, 0.9);*/
-  background-color: #897ab6;
+  background-color: #de1ae8;
 }
 
 @media (min-width: 1024px) {
